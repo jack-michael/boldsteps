@@ -357,3 +357,7 @@ Resource.designer.cs
 
 *.DS_Store
 *.zip
+
+# Codespaces
+.github
+.devcontainer
