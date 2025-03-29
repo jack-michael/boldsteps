@@ -361,3 +361,4 @@ Resource.designer.cs
 # Codespaces
 .github
 .devcontainer
+.vscode
